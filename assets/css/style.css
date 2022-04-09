@@ -25,6 +25,11 @@ nav{
 #destacados img{
     height: 150px;
 }
+/* Contacto */
+#Contacto{
+    color: white;
+}
+
 
 /* Footer */
 #Footer a{
