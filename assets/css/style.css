@@ -16,3 +16,12 @@ nav{
 #quienesSomos{
     color: white;
 }
+
+/*Destacados*/
+#destacados{
+    color: white;
+}
+
+#destacados img{
+    height: 150px;
+}
