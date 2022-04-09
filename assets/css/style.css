@@ -25,3 +25,9 @@ nav{
 #destacados img{
     height: 150px;
 }
+
+/* Footer */
+#Footer a{
+    color: white;
+    text-decoration: none;
+}
