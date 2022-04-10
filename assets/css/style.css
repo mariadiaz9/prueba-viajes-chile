@@ -49,3 +49,7 @@ body{
     color: white;
     text-decoration: none;
 }
+
+#Footer h3{
+    padding: 1.5rem;
+}
