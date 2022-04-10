@@ -1,11 +1,19 @@
+/* HTML */
+html{
+    scroll-behavior: auto !important;
+}
+
 /* Body */
 body{
     background-color: black;
 }
 
 /* Navbar */
-nav{
+.navbar{
     background: transparent;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
 }
 
 .navbar-brand img{
@@ -18,11 +26,11 @@ nav{
 }
 
 /*Destacados*/
-#destacados{
+#Destacados{
     color: white;
 }
 
-#destacados img{
+#Destacados img{
     height: 150px;
 }
 /* Contacto */
