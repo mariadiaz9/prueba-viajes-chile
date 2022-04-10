@@ -5,7 +5,7 @@ $(document).ready(function(){
             {
                 scrollTop: $(gato).offset().top
             },
-            900
+            700
         )
     })
 /*Para el tooltip*/

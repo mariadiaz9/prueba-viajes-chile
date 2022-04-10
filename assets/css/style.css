@@ -6,13 +6,13 @@ html{
 /* Body */
 body{
     background-color: black;
-    font-family: Helvetica;
+    font-family: "Open Sans";
 }
 
 /* Navbar */
 .navbar{
     background: transparent;
-    position: fixed;
+    position: fixed-top;
     width: 100vw;
     z-index: 1;
 }
@@ -29,16 +29,24 @@ body{
 /*Destacados*/
 #Destacados{
     color: white;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
 }
 
 #Destacados div{
-
-    padding-bottom: 0.2rem;
+    padding-bottom: 0.9rem;
 }
 
 #Destacados img{
     height: 150px;
 }
+
+#Destacados h6{
+    font-family: "Opens Sans";
+    font-weight: 400;
+    font-size: 20px;
+}
+
 /* Contacto */
 #Contacto{
     color: white;
@@ -60,5 +68,5 @@ body{
 }
 
 #Footer i{
-    margin-top: 1rem;;
+    margin-top: 1.5rem;;
 }
