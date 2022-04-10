@@ -31,6 +31,11 @@ body{
     color: white;
 }
 
+#Destacados div{
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
 #Destacados img{
     height: 150px;
 }
