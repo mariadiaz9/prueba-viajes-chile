@@ -6,6 +6,7 @@ html{
 /* Body */
 body{
     background-color: black;
+    font-family: Helvetica;
 }
 
 /* Navbar */
@@ -36,6 +37,10 @@ body{
 /* Contacto */
 #Contacto{
     color: white;
+}
+
+#Contacto button{
+    border-radius: 3px;
 }
 
 
